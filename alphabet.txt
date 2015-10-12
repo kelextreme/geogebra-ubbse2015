@@ -7,7 +7,7 @@ f
 G
 h
 i
-j
+J
 K
 l
 M
@@ -23,4 +23,4 @@ v
 w
 X
 y
-z
+Z
